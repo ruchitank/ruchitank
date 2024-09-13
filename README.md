@@ -12,12 +12,15 @@ Software Engineer Intern @ KickStart Solutions LLP
 Developed user-friendly websites using HTML5, CSS3, JavaScript, PHP, Angular.
 Collaborated with a cross-functional team to design responsive layouts, improving overall usability and site performance.
 Created dynamic, data-driven components for seamless user interactions.
+
 Senior Engineer @ eInfochips
 
 Led a team of developers to create efficient front-end components for enterprise-level applications.
 Improved UI performance by optimizing front-end code and integrating with back-end systems using Angular and REST APIs.
 Mentored junior developers, fostering a collaborative and learning-centric team environment.
+
 🛠️ Technical Skills
+
 Languages: JavaScript, HTML/CSS, PHP, Python
 Tools: GitHub, Firebase, Visual Studio Code
 Technologies: Angular, REST APIs, Linux, Bootstrap, WordPress
