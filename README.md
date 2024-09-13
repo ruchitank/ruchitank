@@ -1,9 +1,12 @@
 Hi, I'm Ruchi Tank! 👋
 🎓 Bachelor of Technology (Computer Engineering) from CHARUSAT University
+
 💻 Software Engineer with 3+ years of experience in software development and front-end engineering
+
 🌐 Passionate about creating intuitive user experiences and delivering high-quality front-end solutions
 
 💼 Professional Experience
+
 Software Engineer Intern @ KickStart Solutions LLP
 
 Developed user-friendly websites using HTML5, CSS3, JavaScript, PHP, Angular.
